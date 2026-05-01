@@ -362,7 +362,7 @@ The three included tests:
 
 ## What's NOT real (and what would change for production)
 
-This is a teaching demo. To make it production-grade you'd swap these things:
+This is a learning demo. To make it production-grade you'd swap these things:
 
 | What's in the demo | What it would be in production |
 |---|---|
